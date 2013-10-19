@@ -1,4 +1,4 @@
 prestadeal
 ==========
 
-Prestadeal Daily Deals PHP sCRIPT? gROUPON cLONE
+Prestadeal Daily Deals PHP Script | Groupon Clone
